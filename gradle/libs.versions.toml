@@ -58,6 +58,7 @@ chucker = "4.0.0"
 firebase-pref = "1.4.1"
 secrets = "2.0.1"
 turbine = "0.12.1"
+materialVersion = "1.11.0"
 
 
 [libraries]
@@ -137,6 +138,7 @@ android-gradlePlugin = { group = "com.android.tools.build", name = "gradle", ver
 kotlin-gradlePlugin = { group = "org.jetbrains.kotlin", name = "kotlin-gradle-plugin", version.ref = "kotlin" }
 firebase-crashlytics-gradlePlugin = { group = "com.google.firebase", name = "firebase-crashlytics-gradle", version.ref = "firebaseCrashlyticsPlugin" }
 ksp-gradlePlugin = { group = "com.google.devtools.ksp", name = "com.google.devtools.ksp.gradle.plugin", version.ref = "ksp" }
+material = { group = "com.google.android.material", name = "material", version.ref = "materialVersion" }
 
 [bundles]
 # Bundle with retrofit dependencies needed to compile.

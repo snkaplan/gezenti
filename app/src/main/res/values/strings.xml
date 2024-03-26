@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">gezenti</string>
+    <string name="network_not_connected">network_not_connected</string>
+    <string name="nav_home_title">Home</string>
 </resources>

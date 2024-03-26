@@ -38,6 +38,7 @@ android {
 }
 dependencies {
     implementation(projects.feature.login)
+    implementation(projects.feature.home)
 
     implementation(projects.core.common)
     implementation(projects.core.designsystem)

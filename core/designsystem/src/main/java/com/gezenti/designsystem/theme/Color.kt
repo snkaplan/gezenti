@@ -1,4 +1,4 @@
-package com.gezenti.app.ui.theme
+package com.gezenti.designsystem.theme
 
 import androidx.compose.ui.graphics.Color
 
